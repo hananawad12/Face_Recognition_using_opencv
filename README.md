@@ -19,6 +19,7 @@ pip install requests <br />
  we can add the images of each person in folder and add the name of person for each folder. <br />
 3. then Run  <br />
 *python face_rec.py <br />
+-Note if you have trainingData.yml and faceLabels.pickle then you can run tester.py directly. <br />
 *python tester.py <br />
 
 # Output
