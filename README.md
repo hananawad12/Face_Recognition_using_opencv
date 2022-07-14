@@ -1,4 +1,4 @@
-# Face_Recognition_using_opencv
+# Face_Recognition_using_opencv_Internship_2022
 # Prerequisites:
 numpy <br />
 opencv-python <br />
