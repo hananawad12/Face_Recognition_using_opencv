@@ -16,7 +16,7 @@ pip install requests <br />
 # Running:
 1.Put some images in TestImages folder that we want to predict in tester.py <br />
 2.Put the Images of training for the classifier in trainingImages folder. If we  want to train clasifier to recognize multiple people then 
- we can add the images of each person in folder and add the name of person for each folder. <br />
+ we can add the images of each person in folder and add the name of each person for each folder. <br />
 3. then Run  <br />
 *python face_rec.py <br />
 -Note if you have trainingData.yml and faceLabels.pickle then you can run tester.py directly. <br />
